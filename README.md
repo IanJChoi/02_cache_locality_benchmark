@@ -1,4 +1,4 @@
-# Cache Locality Benchmark
+# Cache Locality Benchmar
 
 This project benchmarks two memory-access patterns on a 32MB byte array where each element is read 10,000 times.
 
