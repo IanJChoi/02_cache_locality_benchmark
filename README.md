@@ -1,6 +1,6 @@
 # Cache Locality Benchmark
 
-This project benchmarks two memory-access patterns on a 32MB byte array where each element is read 10,000 times
+This project benchmarks two memory-access patterns on a 32MB byte array where each element is read 10,000 times.
 
 - `method_a`: scans from the first element to the last element, and repeats that full scan 10,000 times.
 - `method_b`: reads each element 10,000 times before moving to the next element.
